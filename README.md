@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💼 Work profile: [@mdepaula-rdc](https://github.com/mdepaula-rdc)
+
 <!--
 **msbp/msbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
